@@ -1,0 +1,5 @@
+<!--pages/map/map.wxml-->
+<text>{{latitude}}</text>
+<view>------</view>
+<text>{{longitude}}</text>
+<map longitude="{{longitude}}" latitude="{{latitude}}"></map>
